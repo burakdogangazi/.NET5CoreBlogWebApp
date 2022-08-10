@@ -1,0 +1,54 @@
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Burak\Desktop\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Burak\Desktop\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Burak\Desktop\EğitimlerVeProjeler\ASP.NET & BTBD\C#Bootcamp\CoreDemo\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll

@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "jsdelivr",
+      "library": "sweetalert2@11.4.4",
+      "destination": "wwwroot/lib/sweetalert2/",
+      "type" :  "module"
+       
+    }
+  ]
+}
